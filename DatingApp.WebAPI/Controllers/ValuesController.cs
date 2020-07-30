@@ -10,7 +10,7 @@ namespace DatingApp.WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class ValuesController : ControllerBase  // a base class for an MVC controller without view support
     {
 
         private readonly DataContext _context;
