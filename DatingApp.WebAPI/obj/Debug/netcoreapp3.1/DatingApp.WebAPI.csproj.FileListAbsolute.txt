@@ -59,3 +59,11 @@ C:\Courses\Core Angular\Jsu\DatingApp.WebAPI\bin\Debug\netcoreapp3.1\runtimes\wi
 C:\Courses\Core Angular\Jsu\DatingApp.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Courses\Core Angular\Jsu\DatingApp.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Courses\Core Angular\Jsu\DatingApp.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Courses\Core Angular\Jsu\datingAPp.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
